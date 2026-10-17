@@ -1,0 +1,16 @@
+{
+  "name": "Ритм — личный трекер привычек",
+  "short_name": "Ритм",
+  "description": "Личный трекер привычек: серии, статистика, категории и напоминания.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6fb",
+  "theme_color": "#6c5ce7",
+  "icons": [
+    { "src": "assets/logo_ritm.jpeg", "sizes": "1024x1024", "type": "image/jpeg", "purpose": "any" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
