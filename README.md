@@ -17,6 +17,24 @@
 - **PWA** — установка на устройство и офлайн-работа через Service Worker.
 - **Хранение данных** — `localStorage`, без бэкенда и аккаунтов.
 
+## Скриншоты
+
+| Сегодня | Привычки |
+| --- | --- |
+| ![Сегодня](docs/screenshot-today.png) | ![Привычки](docs/screenshot-habits.png) |
+
+| Календарь и история | Общая статистика |
+| --- | --- |
+| ![Календарь](docs/screenshot-calendar.png) | ![Статистика](docs/screenshot-stats.png) |
+
+| Статистика привычки | Категории |
+| --- | --- |
+| ![Статистика привычки](docs/screenshot-habit-stats.png) | ![Категории](docs/screenshot-categories.png) |
+
+| Профиль и настройки | Вход |
+| --- | --- |
+| ![Профиль](docs/screenshot-profile.png) | ![Вход](docs/screenshot-login.png) |
+
 ## Технологии
 
 - Чистые HTML, CSS и JavaScript (ES5-совместимый код, IIFE-модули через `window.App`).
