@@ -49,7 +49,7 @@
 node serve.js
 ```
 
-Откройте http://localhost:5173
+Откройте http://localhost:5173 или https://ritm-habit-tracker-production.up.railway.app/
 
 Порт можно изменить переменной окружения `PORT`:
 
